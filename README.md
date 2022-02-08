@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Camilla.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning SQL, Python, R, Tableu. 
-- 📫 How to reach me on camillapolinarior@gmail.com
+- 📫 Reach me on camillapolinarior@gmail.com
